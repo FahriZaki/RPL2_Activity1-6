@@ -1,1 +1,1 @@
-Penjelasan Singkat Tentang ACTIVITY Rekayasa Perangkat Lunak 1-6, ini adalah Activity yang sudah dilakukan selama 4 kali pertemuan, yang dimana setiap pertemuannya menggunakan aplikasi Apache NetBeans dan berisikan code Java, Materi yang dipelajari ada MVC, hibernate, dan spring boot."
+
